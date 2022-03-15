@@ -40,7 +40,7 @@ Youtube   - [@codopus](https://www.youtube.com/channel/UCFBBym1MF315SJyiYmQOQBg)
 
 Linkedin  - [@codopus](https://www.linkedin.com/in/codopus)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [pickachu](https://github.com/codopus/pikachu)
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
