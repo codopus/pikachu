@@ -36,7 +36,7 @@ Git       - [@codopus](https://github.com/codopus)
 
 Facebook  - [@codopus](https://www.facebook.com/codopus)
 
-Youtube   - [@codopus](https://www.facebook.com/codopus)
+Youtube   - [@codopus](https://www.youtube.com/channel/UCFBBym1MF315SJyiYmQOQBg)
 
 Linkedin  - [@codopus](https://www.linkedin.com/in/codopus)
 
